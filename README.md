@@ -5,8 +5,10 @@
 
 ## Step 2 - Downlaod vim config file
 `$ git clone https://github.com/spar7453/vim-settings`
+
 `$ cp ~/vim-settings/.vimrc ~/.vimrc`
 
 ## Step 3 - Install Plugins
 `vim ~/.vimrc`
+
 `:PluginInstall`
